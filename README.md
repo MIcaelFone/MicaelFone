@@ -6,6 +6,11 @@ Here are some ideas to get you started:
 ### 🔭 Eu atualmente faço estagiário no Banco do Brasil
 ###  🌱 Eu atualmente estou aprendendo programação web
 ###  😄 Pronouns: ...Ele/Dele
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIcaelFone&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MIcaelFone&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MIcaelFone&repo=convoychat" />
+</a>
 
 
