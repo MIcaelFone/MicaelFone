@@ -13,4 +13,5 @@
 </a>
 <div style="display:inline-block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50 width=50>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"height=50 width=50>
 </div>
