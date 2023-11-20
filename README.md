@@ -16,6 +16,7 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MIcaelFone&show_icons=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIcaelFone" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIcaelFone)](https://github.com/anuraghazra/github-readme-stats)
+
 
