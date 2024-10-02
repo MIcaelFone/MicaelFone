@@ -40,10 +40,7 @@ Sou **Estagiário de Desenvolvimento Front-End no Banco do Brasil**, apaixonado 
 [![Gmail Badge](https://img.shields.io/badge/-micael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micael@gmail.com)](mailto:micael@gmail.com)
 
 ---
- <div align="center">
-  <img src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png" height=200 alt="coding illustration">
-</div>
-
+ 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height=200 alt="coding animation">
 </div>
