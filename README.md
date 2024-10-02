@@ -1,8 +1,11 @@
  ## Olá, sou Micael Fone 👋
 
-🎓 **Estagiário de Desenvolvimento Front-End no Banco do Brasil**  
-🌱 **Atualmente aprendendo:** Desenvolvimento Web  
-😄 **Pronomes:** Ele/Dele  
+Sou **Estagiário de Desenvolvimento Front-End no Banco do Brasil**, apaixonado por tecnologia e desenvolvimento web. Tenho experiência em criar interfaces de usuário intuitivas e funcionais, e sempre estou buscando novas maneiras de melhorar minhas habilidades e aprender sobre novas tecnologias.
+
+- 🔭 **Atualmente, estou focado no desenvolvimento de aplicações web** utilizando tecnologias como **Go, Node.js, HTML, CSS, JavaScript e TypeScript**.
+- 🌱 **Em constante aprendizado**, atualmente aprimorando meus conhecimentos em frameworks modernos e no uso de **ServiceNow** para desenvolvimento de soluções empresariais.
+- ⚡ **Interesses:** Desenvolvimento Front-End, Integrações Back-End, criação de dashboards interativos e automação de processos.
+- 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack, contribuindo para projetos de impacto que melhorem a experiência dos usuários e otimizem processos organizacionais.
 
 ---
 
@@ -34,11 +37,12 @@
 
 ### 📫 **Entre em contato:**
 [![Linkedin Badge](https://img.shields.io/badge/-MicaelFone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MicaelFone/)](https://www.linkedin.com/in/MicaelFone/) 
-[![Gmail Badge](https://img.shields.io/badge/-micaelfone0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micael@gmail.com)](mailto:micael@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-micael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micael@gmail.com)](mailto:micael@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height=200 alt="coding animation">
+  <img src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png" height=200 alt="coding illustration">
 </div>
 
+ 
