@@ -39,6 +39,7 @@ Sou **Estagiário de Desenvolvimento Front-End no Banco do Brasil**, apaixonado 
 [![Linkedin Badge](https://img.shields.io/badge/-MicaelFone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micael-fone/)](https://www.linkedin.com/in/micael-fone/) 
 [![Gmail Badge](https://img.shields.io/badge/-micaelfone0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micaelfone0@gmail.com)](mailto:micaelfone0@gmail.com)
 
+
 ---
  
 <div align="center">
