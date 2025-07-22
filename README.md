@@ -25,12 +25,11 @@ Sou **Estagiário de Desenvolvimento Full Stack no Banco do Brasil**, apaixonado
 
 ### 📊 **Minhas Estatísticas do GitHub:**
 <div align="center">
-  <a href="https://github.com/MicaelFone/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=MicaelFone&show_icons=true&theme=radical" alt="MicaelFone GitHub Stats" />
-  </a>
-  <a href="https://github.com/MicaelFone/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=MicaelFone&layout=compact&langs_count=8&card_width=320&theme=radical" alt="Top Languages" />
-  </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 ---
