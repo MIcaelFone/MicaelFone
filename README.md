@@ -38,15 +38,6 @@ Sou **Estagiário de Desenvolvimento Full Stack no Banco do Brasil**, apaixonado
 </picture>
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ### 📫 **Entre em contato:**
 [![Linkedin Badge](https://img.shields.io/badge/-MicaelFone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micael-fone/)](https://www.linkedin.com/in/micael-fone/) 
