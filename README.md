@@ -7,6 +7,7 @@
 - ⚡ **Interesses:** Desenvolvimento Full Stack, Ciência de Dados e Machine Learning.
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack ou um profissional de dados.
 
+---
 
 ## Minhas Habilidades:
 <div style="display: inline-block">
