@@ -36,13 +36,13 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev) 
 
 ---
-<p align="left">
+<p class="d-flez flex-column" align="left ">
  Sou <strong> técnico em Informática formado pela TECPUC </strong> e atualmente estou no  <strong> 8º período do curso de Sistemas de Informação na PUCPR </strong>.<br>
  Tenho direcionado meus estudos para as tecnologias <strong>.NET </strong>, <strong> Next.js </strong> e <strong> Ciência de Dados </strong>.
 <br>
 Acredito que a prática é o melhor caminho para o aprendizado, por isso busco constantemente aplicar meus conhecimentos em projetos reais.
 </p>
-
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height=200 alt="coding animation">
  <p align="left">
  Vamos nos conectar? Entre em contato por e-mail e me acompanhe no LinkedIn.
 </p>
