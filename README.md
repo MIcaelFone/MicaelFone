@@ -1,5 +1,6 @@
 # Olá, eu sou Micael!
- QA Tester, comprometido em criar soluções modernas e funcionais. Tenho focado meus estudos em Next.js e .NET, com o objetivo de aprimorar meus conhecimentos em desenvolvimento web                                                                                               
+ QA Tester, comprometido em criar soluções modernas e funcionais
+ .
  ## Sobre mim
 
 - 🔭 **Atualmente, estou focado no desenvolvimento de aplicações web** utilizando tecnologias como **NextJs, Node.js, .NET**.
