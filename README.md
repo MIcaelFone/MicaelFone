@@ -7,6 +7,24 @@
 - ⚡ **Interesses:** Desenvolvimento Full Stack, Ciência de Dados e Machine Learning.
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack ou um profissional de dados.
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MIcaelFone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MIcaelFone&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
+</picture>
+
+
+## ⭐ GitHub Stats
+<a href="https://github.com/MicaelFone">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelFone&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelFone&layout=compact&langs_count=6&theme=radical"/>
+
 
 ## Tecnologias e linguagens 💻
 
@@ -20,19 +38,9 @@
 
 ---
 
-## 📊 **Minhas Estatísticas do GitHub:**
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MIcaelFone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MIcaelFone&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
-</picture>
- <p></p>
+ 
+ 
+ 
 
 <p align="left">
   Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
