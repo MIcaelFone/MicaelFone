@@ -9,21 +9,19 @@
 
 
 
-## Minhas Habilidades:
-<div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50 width=50 alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50 width=50 alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50 alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50 width=50 alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50 alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50 width=50 alt="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=50 width=50 alt="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height=50 width=50 alt="Bootstrap">
-</div>
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,ts,java,python,sql)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev) 
 
 ---
 
-### 📊 **Minhas Estatísticas do GitHub:**
+## 📊 **Minhas Estatísticas do GitHub:**
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MIcaelFone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=MIcaelFone&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
