@@ -36,14 +36,17 @@
 </picture>
  
 
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
 
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=micaelfone0@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/micael-fone/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 
-### 📫 **Entre em contato:**
-[![Linkedin Badge](https://img.shields.io/badge/-MicaelFone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micael-fone/)](https://www.linkedin.com/in/micael-fone/) 
-[![Gmail Badge](https://img.shields.io/badge/-micaelfone0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micaelfone0@gmail.com)](mailto:micaelfone0@gmail.com)
-
-
----
  
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height=200 alt="coding animation">
