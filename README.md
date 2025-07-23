@@ -7,8 +7,6 @@
 - ⚡ **Interesses:** Desenvolvimento Full Stack, Ciência de Dados e Machine Learning.
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack ou um profissional de dados.
 
-###
-
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/MicaelFone">
@@ -19,6 +17,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MIcaelFone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
