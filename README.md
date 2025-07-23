@@ -36,14 +36,15 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev) 
 
 ---
-
- 
- 
- 
-
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+ Sou técnico em Informática formado pela TECPUC</strong> e atualmente sou estudante do 8°périodo do curso de Sistemas de Informação na PUCPR. Tenho focado meus estudos em .NET </strong> e Next.js</strong> e em Ciência de Dados.<br><br> 
+ Acredito que a prática é o melhor camiinho ,por isso venho colocando em prática.
 </p>
+
+ <p align="left">
+ Vamos nos conectar? Entre em contato por e-mail e me acompanhe no LinkedIn.
+</p>
+ 
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=micaelfone0@gmail.com" title="Gmail">
