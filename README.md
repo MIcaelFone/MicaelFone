@@ -8,7 +8,6 @@
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack ou um profissional de dados.
 
 
-
 ## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,ts,java,python,sql)](https://skillicons.dev)
@@ -33,7 +32,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
 </picture>
- 
+ <p></p>
 
 <p align="left">
   Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
