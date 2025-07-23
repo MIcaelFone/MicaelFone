@@ -14,17 +14,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/MicaelFone">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelFone&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelFone&layout=compact&langs_count=6&theme=radical"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Tecnologias e linguagens 💻
 
