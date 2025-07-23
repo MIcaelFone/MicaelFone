@@ -49,9 +49,6 @@
  Vamos nos conectar? Entre em contato por e-mail e me acompanhe no LinkedIn.
 </p>
 
- 
- 
-
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=micaelfone0@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
