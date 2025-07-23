@@ -2,7 +2,7 @@
  QA Tester, comprometido em criar soluções modernas e funcionais. Tenho focado meus estudos em Next.js e .NET, com o objetivo de aprimorar meus conhecimentos em desenvolvimento web                                                                                               
  ## Sobre mim
 
-- 🔭 **Atualmente, estou focado no desenvolvimento de aplicações web** utilizando tecnologias como **Go, Node.js, HTML, CSS, JavaScript e TypeScript**.
+- 🔭 **Atualmente, estou focado no desenvolvimento de aplicações web** utilizando tecnologias como ** NextJs, Node.js, .NET**.
 - 🌱 **Em constante aprendizado**, atualmente aprimorando meus conhecimentos em frameworks modernos.
 - ⚡ **Interesses:** Desenvolvimento Full Stack, Ciência de Dados e Machine Learning.
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack ou um profissional de dados.
