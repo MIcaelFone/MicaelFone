@@ -1,13 +1,12 @@
- ## Olá, sou Micael Fone 👋
-
-Sou **Estagiário de Desenvolvimento Full Stack no Banco do Brasil**, apaixonado por tecnologia e desenvolvimento web. Tenho experiência em criar interfaces de usuário intuitivas e funcionais, e sempre estou buscando novas maneiras de melhorar minhas habilidades e aprender sobre novas tecnologias.
-
+# Olá,eu sou Micael!
+ QA Tester, comprometido em criar soluções modernas e funcionais. Tenho focado meus estudos em Next.js e .NET, com o objetivo de aprimorar meus conhecimentos em desenvolvimento web                                                                                               
+ ## Sobre mim
+ 
 - 🔭 **Atualmente, estou focado no desenvolvimento de aplicações web** utilizando tecnologias como **Go, Node.js, HTML, CSS, JavaScript e TypeScript**.
 - 🌱 **Em constante aprendizado**, atualmente aprimorando meus conhecimentos em frameworks modernos.
 - ⚡ **Interesses:** Desenvolvimento Front-End, Integrações Back-End, criação de dashboards interativos e automação de processos.
 - 🎯 **Objetivo:** Me tornar um desenvolvedor Full-Stack, contribuindo para projetos de impacto que melhorem a experiência dos usuários e otimizem processos organizacionais.
 
----
 
 ### 🔧 **Minhas Habilidades:**
 <div style="display: inline-block">
