@@ -45,6 +45,7 @@
  </p>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height=200 alt="coding animation">
 </div>
+<br>
 <p align="left">
  Vamos nos conectar? Entre em contato por e-mail e me acompanhe no LinkedIn.
 </p>
