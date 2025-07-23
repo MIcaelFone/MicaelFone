@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,ts,java,python,sql)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,next,nest)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev) 
