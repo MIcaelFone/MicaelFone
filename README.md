@@ -37,8 +37,10 @@
 
 ---
 <p align="left">
- Sou técnico em Informática formado pela TECPUC</strong> e atualmente sou estudante do 8°périodo do curso de Sistemas de Informação na PUCPR. Tenho focado meus estudos em .NET </strong> e Next.js</strong> e em Ciência de Dados.<br><br> 
- Acredito que a prática é o melhor camiinho ,por isso venho colocando em prática.
+ Sou <strong> técnico em Informática formado pela TECPUC </strong> e atualmente estou no  <strong> 8º período do curso de Sistemas de Informação na PUCPR </strong>.<br>
+ Tenho direcionado meus estudos para as tecnologias <strong>.NET </strong>, <strong> Next.js </strong> e <strong> Ciência de Dados </strong>.
+<br>
+Acredito que a prática é o melhor caminho para o aprendizado, por isso busco constantemente aplicar meus conhecimentos em projetos reais.
 </p>
 
  <p align="left">
