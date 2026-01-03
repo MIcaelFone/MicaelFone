@@ -50,7 +50,7 @@ Desenvolvedor Web e Backend Júnior, focado na criação de aplicações moderna
 
 ## 🎓 Formação
 
-Sou **Técnico em Informática (TECPUC)** e concluí minha **graduação em Sistemas de Informação na PUCPR**  
+Sou **Técnico em Informática (TECPUC)** e graduado em **Sistemas de Informação na PUCPR**  
 Tenho direcionado meus estudos para **NestJS, Next.js e desenvolvimento backend**, aplicando os conhecimentos em projetos práticos  
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200"/>
