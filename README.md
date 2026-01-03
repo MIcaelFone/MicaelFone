@@ -10,39 +10,65 @@ Desenvolvedor Web e Backend Júnior, focado na criação de aplicações moderna
 - 🌱 Em constante aprendizado, aprimorando conhecimentos em **backend, arquitetura de software e boas práticas**  
 - ⚡ Interesses: **Desenvolvimento Web, Backend e APIs escaláveis**  
 - 🎯 Objetivo: Atuar como **Desenvolvedor Web / Backend Júnior**, contribuindo com soluções eficientes e de impacto  
+- 🎓 Concluí minha graduação em **Sistemas de Informação na PUCPR** e atualmente estou **em busca de novas oportunidades**  
 
 ---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/MicaelFone">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelFone&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelFone&layout=compact&langs_count=6&theme=radical"/>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicaelFone/MicaelFone/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MicaelFone&theme=dracula" height="150" />
+</div>
+
+---
+
 ## 💻 Tecnologias e Linguagens
 
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)  
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)  
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)  
-[![SQL](https://skillicons.dev/icons?i=sql)](https://www.w3schools.com/sql/)
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" title="Python" />
+  <img src="https://skillicons.dev/icons?i=sql" width="50" height="50" title="SQL" />
+</div>
 
 ### 🚀 Frameworks e Bibliotecas
 
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)  
-[![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org/)  
-[![NestJS](https://skillicons.dev/icons?i=nest)](https://nestjs.com/)  
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)  
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" title="React" />
+  <img src="https://skillicons.dev/icons?i=next" width="50" height="50" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nest" width="50" height="50" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" title="Spring" />
+</div>
 
 ### 🛠️ Ferramentas
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)  
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)  
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)  
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" title="VSCode" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" title="Postman" />
+</div>
 
 ---
 
 ## 🎓 Formação
 
-Sou **Técnico em Informática (TECPUC)** e atualmente estou no **8º período de Sistemas de Informação na PUCPR**  
+Sou **Técnico em Informática (TECPUC)** e concluí minha **graduação em Sistemas de Informação na PUCPR**  
 Tenho direcionado meus estudos para **NestJS, Next.js e desenvolvimento backend**, aplicando os conhecimentos em projetos práticos  
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200"/>
