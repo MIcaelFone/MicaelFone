@@ -7,7 +7,7 @@ Desenvolvedor Web e Backend Júnior, focado na criação de aplicações moderna
 ## 👨‍💻 Sobre mim
 
 - 🔭 Atualmente focado no **desenvolvimento de aplicações web e APIs REST**, utilizando **NestJS, Node.js, TypeScript e Next.js**  
-- 🌱 Em constante aprendizado, aprimorando conhecimentos em **backend, arquitetura de software e boas práticas**  
+- 🌱 Em constante aprendizado, aprimorando conhecimentos em **backend,machine learning,data analytics, arquitetura de software e boas práticas**  
 - ⚡ Interesses: **Desenvolvimento Web, Backend e APIs escaláveis**  
 - 🎯 Objetivo: Atuar como **Desenvolvedor Web / Backend Júnior**, contribuindo com soluções eficientes e de impacto  
 - 🎓 Concluí minha graduação em **Sistemas de Informação na PUCPR** e atualmente estou **em busca de novas oportunidades**  
