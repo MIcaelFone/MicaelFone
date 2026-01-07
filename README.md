@@ -66,7 +66,4 @@ Tenho direcionado meus estudos para **NestJS, Next.js e desenvolvimento backend*
   <a href="https://www.linkedin.com/in/micael-fone/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/MicaelFone">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
 </p>
